@@ -1,4 +1,5 @@
 # VJS-Video
+[![npm version](https://badge.fury.io/js/vjs-videos.svg)](https://badge.fury.io/js/vjs-videos)
 
 ### Description
 VJ-Video is a lightweight video component made with just basic Javascript. No jQuery dependency, simple installation and tons of function. [Check it out!](https://vjs-video.herokuapp.com/)
