@@ -1,6 +1,6 @@
 {
   "name": "vjs-videos",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Vanilla component for a video component",
   "main": "video.js",
   "scripts": {
