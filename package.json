@@ -1,0 +1,19 @@
+{
+  "name": "vjs-videos",
+  "version": "1.0.4",
+  "description": "Vanilla component for a video component",
+  "main": "video.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allenRoyston/VJS-Video.git"
+  },
+  "author": "Allen Royston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allenRoyston/VJS-Video/issues"
+  },
+  "homepage": "https://github.com/allenRoyston/VJS-Video#readme"
+}
